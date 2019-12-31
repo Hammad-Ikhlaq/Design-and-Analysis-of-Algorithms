@@ -1,0 +1,6 @@
+size of giant SCC is 32223
+size of OUT is 15453
+size of IN is 24236
+size of Tendrils+Tubes is 3965
+
+size of Disconnected vertices is 11
